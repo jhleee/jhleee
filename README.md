@@ -28,8 +28,8 @@
 
 - 2025.07.29
   -  🎬 [hand-action-shot](https://github.com/jhleee/hand-action-shot)
-    -  손동작 인식을 활용한 프로젝트
-    - python, opencv, mediapipe
+      -  손동작 인식을 활용한 프로젝트
+      - python, opencv, mediapipe
 
 ## 📊 GitHub Stats
 

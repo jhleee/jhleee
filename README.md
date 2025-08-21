@@ -30,6 +30,11 @@
 
 ## 📌 1주 1프로젝트
 
+- 2025.08.21
+  - 📦[squircle-progress-card](https://github.com/jhleee/squircle-progress-card)
+    - squircle progress card
+    - react
+
 - 2025.08.08
   - 🗺️ [naver-shared-place-collector](https://github.com/jhleee/naver-shared-place-collector)
       - 네이버 지도 공유 링크로부터 장소명, 주소, 좌표 등 데이터를 markdown 이나 json 으로 추출
@@ -44,6 +49,7 @@
   -  🎬 [hand-action-shot](https://github.com/jhleee/hand-action-shot)
       -  손동작 인식을 활용한 프로젝트
       - python, opencv, mediapipe
+   
 
 ## 📊 GitHub Stats
 
